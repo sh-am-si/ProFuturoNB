@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sh-am-si/ProFuturoNB.git/main?filepath=src%2Fsound.ipynb)
